@@ -1,4 +1,4 @@
-#🌡️ Temperature Converter Pro
+🌡️ Temperature Converter Pro
 
 A modern, responsive, and interactive temperature converter web application built using HTML, CSS, and JavaScript.
 It supports real-time conversion between Celsius (°C), Fahrenheit (°F), and Kelvin (K) with a clean UI and useful extra features like dark mode and conversion history.
